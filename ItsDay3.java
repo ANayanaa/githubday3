@@ -3,6 +3,6 @@ public class ItsDay3{
 		System.out.println("Arnitha Nayana");
 		System.out.println("Testing error");
 		System.out.println("New feature");
-
+		System.out.println("New feature *2");
 	}
 }
